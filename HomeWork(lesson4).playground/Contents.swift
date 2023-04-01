@@ -26,7 +26,6 @@ someOrange.taste = "Sweet"
 someOrange.weight = 0.66
 
 print("My \(someOrange.weight) kg orange has \(someOrange.color) color and \(someOrange.taste) taste")
-
 /*
 Exercise 2
 1.Create new Parent(Superclass) Class Figure. Inside the Class declare:
